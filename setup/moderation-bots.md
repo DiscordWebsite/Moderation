@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moderation Bots
-parent: Setup
+parent: Server Setup
 nav_order: 1
 ---
 
