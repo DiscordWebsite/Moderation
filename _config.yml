@@ -1,0 +1,22 @@
+title: "Discord Moderation Guides"
+description: "Guides for Discord Moderators"
+baseurl: ""
+url: "https://moderation.discord.website"
+remote_theme: pmarsceill/just-the-docs
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+#logo: ""
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+color_scheme: "dark"
+#ga_tracking: ""
+plugins:
+  - jekyll-seo-tag
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
